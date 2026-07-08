@@ -210,14 +210,15 @@ npm run dev
 ---
 
 ## 📚 学习资源（按周推荐）
-| 周次 | 推荐学习 |
-|------|----------|
-| 第 1 周 | CoreXY 原理、步进电机控制 |
-| 第 2 周 | Grbl 源码分析、ESP32 Arduino |
-| 第 3 周 | G-code 指令集 |
-| 第 4 周 | opentype.js 文档 |
-| 第 5 周 | 汉字笔画顺序规则 |
-| 第 6 周 | WebSerial API |
+
+| 周次   | 推荐学习 |
+|--------|----------|
+| 第 1 周 | [CoreXY 原理](https://corexy.com/)、[步进电机控制](https://www.youtube.com/watch?v=0qwrnUeSpYQ) |
+| 第 2 周 | [Grbl 源码分析](https://github.com/gnea/grbl)、[ESP32 Arduino 框架文档](https://docs.espressif.com/projects/arduino-esp32/) |
+| 第 3 周 | [G-code 指令集（Marlin）](https://marlinfw.org/docs/gcode/G000-G001.html) |
+| 第 4 周 | [opentype.js 官方文档](https://github.com/opentypejs/opentype.js) |
+| 第 5 周 | [汉字笔画顺序规则](https://en.wikipedia.org/wiki/Stroke_order) |
+| 第 6 周 | [Web Serial API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API) |
 
 ---
 
